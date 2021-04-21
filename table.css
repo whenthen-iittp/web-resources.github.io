@@ -292,7 +292,7 @@ h3,
 
 @media (min-width: 1200px) {
 
-    .col-xl-14 {
+    .col-xl-11 {
         max-width: 50%;
         flex: 0 0 50%;
     }
