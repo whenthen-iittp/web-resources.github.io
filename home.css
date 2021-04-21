@@ -122,6 +122,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    outline: none;
   }
   
   .date_picker_month_days li button {
@@ -133,11 +134,13 @@
     border-radius: 50%;
     font-weight: 900;
     transition: all 0.3s ease;
+    outline: none;
   }
   
   .date_picker_month_days li button.active {
     background: var(--color-green);
     color: var(--color-clouds);
+    outline: none;
   }
   
   li.date_picker_week_day {
