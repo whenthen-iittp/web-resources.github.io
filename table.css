@@ -276,7 +276,7 @@ h3,
 }
 
 .col,
-.col-xl-14 {
+.col-xl-10 {
     position: relative;
     width: 100%;
     min-height: 1px;
@@ -292,7 +292,7 @@ h3,
 
 @media (min-width: 1200px) {
 
-    .col-xl-14 {
+    .col-xl-10 {
         max-width: 50%;
         flex: 0 0 50%;
     }
